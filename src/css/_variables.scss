@@ -1,0 +1,26 @@
+$color-black: #050505;
+$color-white: #fbfbf2;
+$color-white-2: #f9f7f0;
+$color-gray: #494949;
+
+$color-primary: #011f41;
+// $color-primary-dark: #d84a3b;
+$color-secondary:  rgb(204, 204, 204);
+$color-highlight: rgb(255, 157, 127);
+
+// FONT
+$font-default: 'Comfortaa', cursive;
+$box-shadow-default: 0 1.5rem 3.8rem rgba($color-black, 0.3), 0 1rem 1.2rem rgba($color-black, 0.1);
+
+// BREAKPOINTS
+$bp-lg: 1100px;
+$bp-md: 768px;
+$bp-sm: 600px;
+$bp-xs: 425px;
+
+// MIXINS
+@mixin flexCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
