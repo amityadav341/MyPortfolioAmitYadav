@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41b8dc42827dd21b870e07bd9107dbc5",
+    "revision": "afb87fc7f398fd6e8e2058a3593fd4dd",
     "url": "/MyportfolioAmitYadav/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyportfolioAmitYadav/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "0980b31e773c5a0e67fe",
+    "revision": "e1c0badd212e0a38cf17",
     "url": "/MyportfolioAmitYadav/static/css/main.86f3ee3f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyportfolioAmitYadav/static/js/2.8c9e835c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0980b31e773c5a0e67fe",
-    "url": "/MyportfolioAmitYadav/static/js/main.4f107f9d.chunk.js"
+    "revision": "e1c0badd212e0a38cf17",
+    "url": "/MyportfolioAmitYadav/static/js/main.d46b8810.chunk.js"
   },
   {
     "revision": "5d5e19d032bc3d5c7de4",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyportfolioAmitYadav/static/media/amit.2dc56d9a.jpeg"
   },
   {
-    "revision": "9a4f008d49e9b0fbc88c313ec8aa7b49",
-    "url": "/MyportfolioAmitYadav/static/media/amit.9a4f008d.pdf"
+    "revision": "f7f9e0be49bb0a6f8b745e9ea0998d54",
+    "url": "/MyportfolioAmitYadav/static/media/amit.f7f9e0be.pdf"
   },
   {
     "revision": "ed1d518ed00f4049578ecc1f4b3ba403",
